@@ -77,64 +77,184 @@
   [
 		{		
       "id"	:	"1",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic001",
-      "image_link"	:	"https://ia601507.us.archive.org/0/items/dr_map-of-travancore-and-cochin-language-malayalim-to-accompanythe-church-13242056/13242056.jpg"
+      "image"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
     },		
     {		
       "id"	:	"2",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic002",
-      "image_link"	:	"file:///android_asset/image/ferrari1.webp"
+      "image"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
     },		
     {		
       "id"	:	"3",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic003",
-      "image_link"	:	"https://aliendro.id/uploads/demo/walljson/ferrari2.jpg"
+      "image"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
     },		
     {		
       "id"	:	"4",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic004",
-      "image_link"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
+      "image"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
     },		
     {		
       "id"	:	"5",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic005",
-      "image_link"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+      "image"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
     },		
     {		
       "id"	:	"6",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic006",
-      "image_link"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+      "image"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
     },		
     {		
       "id"	:	"7",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic007",
-      "image_link"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+      "image"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
     },		
     {		
       "id"	:	"8",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic008",
-      "image_link"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+      "image"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
     },		
     {		
       "id"	:	"9",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic009",
-      "image_link"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
+      "image"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
     },		
     {		
       "id"	:	"10",
-      "category"	:	"islamicwall",
+      "name_category"	:	"islamicwall",
       "title"	:	"islamic010",
-      "image_link"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
-    }	
+      "image"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+    },
+{		
+      "id"	:	"1",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic001",
+      "image"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic002",
+      "image"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic003",
+      "image"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic004",
+      "image"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic005",
+      "image"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic006",
+      "image"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic007",
+      "image"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic008",
+      "image"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic009",
+      "image"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic010",
+      "image"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+    },
+{		
+      "id"	:	"1",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic001",
+      "image"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic002",
+      "image"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic003",
+      "image"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic004",
+      "image"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic005",
+      "image"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic006",
+      "image"	:	"https://i.pinimg.com/564x/b6/29/e8/b629e802d05cc388de08d4f5f9c9f0b9.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic007",
+      "image"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic008",
+      "image"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic009",
+      "image"	:	"https://i.pinimg.com/564x/89/72/3d/89723dbf66ab6f6039d44e344a7ac654.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "name_category"	:	"islamicwall",
+      "title"	:	"islamic010",
+      "image"	:	"https://i.pinimg.com/564x/1d/29/6f/1d296f081ac3c8bd267a8a3f542a5677.jpg"
+    }		
 	
   ]
 }
