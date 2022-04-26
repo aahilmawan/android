@@ -85,13 +85,13 @@
       "id"	:	"2",
       "category"	:	"islamicwall",
       "title"	:	"islamic002",
-      "image_link"	:	"https://i.pinimg.com/564x/f5/95/f6/f595f6634f5ec96a167102cee4b547c6.jpg"
+      "image_link"	:	"file:///android_asset/image/ferrari1.webp"
     },		
     {		
       "id"	:	"3",
       "category"	:	"islamicwall",
       "title"	:	"islamic003",
-      "image_link"	:	"https://i.pinimg.com/564x/0b/c2/d7/0bc2d7a6cd607ceef421a16ff5d3f449.jpg"
+      "image_link"	:	"https://aliendro.id/uploads/demo/walljson/ferrari2.jpg"
     },		
     {		
       "id"	:	"4",
